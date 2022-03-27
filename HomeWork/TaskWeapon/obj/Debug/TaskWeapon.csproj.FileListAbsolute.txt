@@ -1,0 +1,16 @@
+C:\Users\Aysel\source\repos\TaskWeapon\bin\Debug\TaskWeapon.exe.config
+C:\Users\Aysel\source\repos\TaskWeapon\bin\Debug\TaskWeapon.exe
+C:\Users\Aysel\source\repos\TaskWeapon\bin\Debug\TaskWeapon.pdb
+C:\Users\Aysel\source\repos\TaskWeapon\obj\Debug\TaskWeapon.csproj.AssemblyReference.cache
+C:\Users\Aysel\source\repos\TaskWeapon\obj\Debug\TaskWeapon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aysel\source\repos\TaskWeapon\obj\Debug\TaskWeapon.csproj.CoreCompileInputs.cache
+C:\Users\Aysel\source\repos\TaskWeapon\obj\Debug\TaskWeapon.exe
+C:\Users\Aysel\source\repos\TaskWeapon\obj\Debug\TaskWeapon.pdb
+C:\Users\Aysel\OneDrive\Masaüstü\TaskWeapon\bin\Debug\TaskWeapon.exe.config
+C:\Users\Aysel\OneDrive\Masaüstü\TaskWeapon\bin\Debug\TaskWeapon.exe
+C:\Users\Aysel\OneDrive\Masaüstü\TaskWeapon\bin\Debug\TaskWeapon.pdb
+C:\Users\Aysel\OneDrive\Masaüstü\TaskWeapon\obj\Debug\TaskWeapon.csproj.AssemblyReference.cache
+C:\Users\Aysel\OneDrive\Masaüstü\TaskWeapon\obj\Debug\TaskWeapon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aysel\OneDrive\Masaüstü\TaskWeapon\obj\Debug\TaskWeapon.csproj.CoreCompileInputs.cache
+C:\Users\Aysel\OneDrive\Masaüstü\TaskWeapon\obj\Debug\TaskWeapon.exe
+C:\Users\Aysel\OneDrive\Masaüstü\TaskWeapon\obj\Debug\TaskWeapon.pdb
