@@ -1,0 +1,14 @@
+C:\Users\tu7pgums7\source\repos\Praktika3\obj\Debug\netcoreapp3.1\Praktika3.csproj.AssemblyReference.cache
+C:\Users\tu7pgums7\source\repos\Praktika3\obj\Debug\netcoreapp3.1\Praktika3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu7pgums7\source\repos\Praktika3\obj\Debug\netcoreapp3.1\Praktika3.AssemblyInfoInputs.cache
+C:\Users\tu7pgums7\source\repos\Praktika3\obj\Debug\netcoreapp3.1\Praktika3.AssemblyInfo.cs
+C:\Users\tu7pgums7\source\repos\Praktika3\obj\Debug\netcoreapp3.1\Praktika3.csproj.CoreCompileInputs.cache
+C:\Users\tu7pgums7\source\repos\Praktika3\bin\Debug\netcoreapp3.1\Praktika3.exe
+C:\Users\tu7pgums7\source\repos\Praktika3\bin\Debug\netcoreapp3.1\Praktika3.deps.json
+C:\Users\tu7pgums7\source\repos\Praktika3\bin\Debug\netcoreapp3.1\Praktika3.runtimeconfig.json
+C:\Users\tu7pgums7\source\repos\Praktika3\bin\Debug\netcoreapp3.1\Praktika3.runtimeconfig.dev.json
+C:\Users\tu7pgums7\source\repos\Praktika3\bin\Debug\netcoreapp3.1\Praktika3.dll
+C:\Users\tu7pgums7\source\repos\Praktika3\bin\Debug\netcoreapp3.1\Praktika3.pdb
+C:\Users\tu7pgums7\source\repos\Praktika3\obj\Debug\netcoreapp3.1\Praktika3.dll
+C:\Users\tu7pgums7\source\repos\Praktika3\obj\Debug\netcoreapp3.1\Praktika3.pdb
+C:\Users\tu7pgums7\source\repos\Praktika3\obj\Debug\netcoreapp3.1\Praktika3.genruntimeconfig.cache
