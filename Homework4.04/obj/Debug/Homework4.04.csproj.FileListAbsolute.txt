@@ -1,0 +1,8 @@
+C:\Users\Aysel\source\repos\Homework4.04\obj\Debug\Homework4.04.csproj.AssemblyReference.cache
+C:\Users\Aysel\source\repos\Homework4.04\obj\Debug\Homework4.04.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aysel\source\repos\Homework4.04\obj\Debug\Homework4.04.csproj.CoreCompileInputs.cache
+C:\Users\Aysel\source\repos\Homework4.04\bin\Debug\Homework4.04.exe.config
+C:\Users\Aysel\source\repos\Homework4.04\bin\Debug\Homework4.04.exe
+C:\Users\Aysel\source\repos\Homework4.04\bin\Debug\Homework4.04.pdb
+C:\Users\Aysel\source\repos\Homework4.04\obj\Debug\Homework4.04.exe
+C:\Users\Aysel\source\repos\Homework4.04\obj\Debug\Homework4.04.pdb
